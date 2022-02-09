@@ -31,4 +31,4 @@ You can access the server with the gui_client.py file on your local computer.
 
 Official Website: [moitionEye](https://github.com/ccrisan/motioneye)
 
-Install motionEye on Bullseye: [motionEye on Raspbian Bullseye](https://github.com/ccrisan/motioneye/wiki/Install-on-Raspbian-Bullseye)
+Follow the installation instructions for your OS
