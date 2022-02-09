@@ -39,7 +39,7 @@ You can access the server with the gui_client.py file on your local computer.
 
 Official Website: [moitionEye](https://github.com/ccrisan/motioneye)
 
-Follow the installation instructions for your OS(installs Python 2.7)
+Follow the installation instructions for your OS(motionEye installation installs Python 2.7)
 
 #### Note
 If you install Python 2.x and Python 3.x you have to replace "python file.py" with "python3 file.py"
