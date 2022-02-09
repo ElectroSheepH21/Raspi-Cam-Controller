@@ -30,8 +30,8 @@ Clone the repository for needed files:
     git clone https://github.com/ElectroSheepH21/Raspi-Cam-Controller.git
   
 You have to clone this repository on your Raspberry and on your local computer.
-After cloning this repository, you have to start the raspi_server.py file.
-You can access the server with the gui_client.py file on your local computer.
+After cloning this repository, you have to start the "raspi_server.py" file.
+You can access the server with the "gui_client.py" file on your local computer.
 
 
 
