@@ -18,7 +18,7 @@ Install adafruit-motorkit:
 
     sudo pip3 install adafruit-circuitpython-motorkit
 
-### Clone git repository:
+### Clone git repository
 Clone the repository for needed files:
 
     git clone https://github.com/ElectroSheepH21/Raspi-Cam-Controller.git
