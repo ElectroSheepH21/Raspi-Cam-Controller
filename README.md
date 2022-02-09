@@ -23,7 +23,7 @@ Usage
 -----
 Clone git repository:
 
-    git clone ...
+    git clone https://github.com/ElectroSheepH21/Raspi-Cam-Controller.git
   
 You have to clone this repository on your Raspberry and on your local computer.
 After cloning this repository, you have to start the raspi_server.py file.
