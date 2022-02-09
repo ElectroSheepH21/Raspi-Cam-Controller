@@ -1,12 +1,18 @@
 # Raspi-Cam-Controller
 
 ## Usage
-### Configure Raspberry interface
-To enable I2C you have to open the Raspberry Pi configuration tool:
+### Configure Raspberry
+To configure the Raspberry, you have to open the configuration tool:
 
     sudo raspi-config
     
-Navigate in this menu to "Interface Options" and enable I2C
+- Enable I2C(needed for PCA9685):
+
+  Interface Options --> I2C
+
+- Enable camera(recommended):
+
+  Interface Options --> Legacy Camera
 
 ### Installing from PyPI
 
@@ -27,8 +33,12 @@ You have to clone this repository on your Raspberry and on your local computer.
 After cloning this repository, you have to start the raspi_server.py file.
 You can access the server with the gui_client.py file on your local computer.
 
+
+
 ### Install motionEye(optional)
 
 Official Website: [moitionEye](https://github.com/ccrisan/motioneye)
 
 Follow the installation instructions for your OS
+
+
